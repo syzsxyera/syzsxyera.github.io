@@ -1,6 +1,7 @@
 ---
 title: "Judul Postingan"
 date: 2025-10-09T17:45:00+07:00
+mathjax: true
 categories:
   - Blog
 tags:
