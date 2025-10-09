@@ -109,7 +109,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      enable_copy_code_button: true
 
 category_archive:
   type: liquid
@@ -117,3 +116,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+enable_copy_code_button: true
