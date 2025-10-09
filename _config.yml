@@ -18,9 +18,7 @@ title_separator: "|"
 subtitle: "Memahami dunia"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Untukmu diriku di masa lalu maupun di masa depan, mari belajar bersama, berusaha untuk memahami diri sendiri dan konsep dunia.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
@@ -62,7 +60,7 @@ plugins:
 author:
   name   : "Pelajar Malas"
   avatar : "/assets/images/pelajar-photo.jpg"
-  bio    : "Belajar bersama mengenai diri sendiri dan konsep dunia."
+  bio    : "Untukmu diriku di masa lalu maupun di masa depan, mari belajar bersama, berusaha untuk memahami diri sendiri dan konsep dunia."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
