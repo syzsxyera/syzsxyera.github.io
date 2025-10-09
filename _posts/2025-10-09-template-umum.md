@@ -6,9 +6,9 @@ categories:
 tags:
   - tag1
   - tag2
+mathjax: true
+layout: post
 ---
-
-## Pendahuluan
 
 Tulis pendahuluan postingan di sini. Jelaskan secara singkat apa yang akan dibahas dalam postingan ini.
 
