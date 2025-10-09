@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Pelajar Pucat"
-  # avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/pelajar-photo.jpg"
   bio    : "Belajar bersama mengenai diri sendiri dan konsep dunia."
   links:
     - label: "Website"
