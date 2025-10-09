@@ -3,6 +3,7 @@ title: "Perkenalan awal"
 date: 2025-10-09T20:05:00+07:00
 mathjax: true
 categories:
+
 - Blog
   tags:
 - perkenalan
@@ -41,4 +42,5 @@ Koreksi yang dilakukan melalui Grok AI[^1].
 **<span style="color:green">Diperbaiki</span>**: "<span style="color:green">こんにちは</span>、私のなまえはやりです。<span style="color:green">よろしく</span>おねがいします。"
 
 [^1]: Koreksi teks ini dibantu oleh Grok, dibuat oleh xAI.
+
 
