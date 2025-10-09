@@ -1,0 +1,9 @@
+{% if page.excerpt %}
+  <div class="page__excerpt">
+    <p class="archive__item-excerpt" itemprop="description">
+      <strong>Summary:</strong> {{ page.content | strip_html | truncatewords: 80, "..." }}
+    </p>
+  </div>
+{% endif %}
+
+{{ content }}
