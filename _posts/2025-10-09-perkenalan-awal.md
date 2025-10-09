@@ -12,7 +12,7 @@ categories:
 
 Halo, ini adalah postingan pertama saya. Saya akan belajar menulis dalam bahasa Inggris dan sedikit bahasa Jepang. Mari kita mulai dengan perkenalan singkat.
 
-Koreksi yang dilakukan melalui Grok AI^1.
+Koreksi yang dilakukan melalui Grok AI[^1].
 
 ## Introduction
 
