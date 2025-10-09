@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Pelajar Pucat"
+  name   : "Pelajar Malas"
   avatar : "/assets/images/pelajar-photo.jpg"
   bio    : "Belajar bersama mengenai diri sendiri dan konsep dunia."
   links:
@@ -97,10 +97,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
       show_date: true
+      enable_copy_code_button: true
   # _pages
   - scope:
       path: "_pages"
