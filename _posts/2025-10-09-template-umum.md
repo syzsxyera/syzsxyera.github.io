@@ -30,4 +30,4 @@ Tulis konten utama postingan di sini. Gunakan subjudul, paragraf, dan elemen Mar
 Jika postingan berisi kode, gunakan blok kode Markdown:
 
 ```language
-Kode di sini
+bumi = bulat
