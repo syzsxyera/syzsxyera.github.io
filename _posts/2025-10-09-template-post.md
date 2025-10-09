@@ -5,8 +5,7 @@ mathjax: true
 categories:
   - Blog
 tags:
-  - tag1
-  - tag2
+  - template
 ---
 
 Tulis pendahuluan postingan di sini. Jelaskan secara singkat apa yang akan dibahas dalam postingan ini.
