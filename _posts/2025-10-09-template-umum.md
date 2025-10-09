@@ -29,5 +29,6 @@ Tulis konten utama postingan di sini. Gunakan subjudul, paragraf, dan elemen Mar
 ## Kode (opsional)
 Jika postingan berisi kode, gunakan blok kode Markdown:
 
-```python
+```language
 bumi = bulat
+```
